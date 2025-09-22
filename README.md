@@ -74,8 +74,6 @@ yarn install
 yarn build
 
 ### Project Structure
-
-```
 src/
 └── workers/
     ├── worker.ts              # Main worker implementation

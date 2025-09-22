@@ -9,7 +9,7 @@ export default [
     output: {
       file: 'dist/worker/ringbuffer.js',
       format: 'iife',
-      name: 'RingBufferLib'
+      name: 'ringbuffer'
     },
     plugins: [
       resolve(),
